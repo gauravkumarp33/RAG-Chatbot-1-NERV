@@ -64,7 +64,7 @@ Run the app:
 
 📡 API Endpoint
 POST /ask
-https://rag-chatbot-1-nerv-gaurav.onrender.com/ask
+
 Request:
     {
     "query": "Give me details about alumni working at Google"
